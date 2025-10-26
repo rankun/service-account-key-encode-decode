@@ -1,0 +1,5 @@
+{
+  "name": "Service Account Key Encoder/Decoder",
+  "description": "A simple tool to Base64 encode and decode service account JSON files, preparing them for storage in environment variables like on Vercel. The encoding mimics 'base64 -w 0' for a single-line output.",
+  "requestFramePermissions": []
+}
