@@ -1,6 +1,6 @@
 
 import React, { useState, useRef, useCallback } from 'react';
-import { ClipboardIcon, CheckIcon, UploadIcon, AlertTriangleIcon } from './component-icons';
+import { ClipboardIcon, CheckIcon, UploadIcon, AlertTriangleIcon } from 'component-icons.tsx';
 
 type Mode = 'encode' | 'decode';
 
